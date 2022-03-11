@@ -7,4 +7,3 @@
 	- **Size**: Very small, small, medium, large
 - **How many pets am I looking for?**
 - **Do I have any other pets, or have I had any other pets?**
-- aaaaaaa
